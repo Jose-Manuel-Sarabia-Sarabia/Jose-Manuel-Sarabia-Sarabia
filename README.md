@@ -1,9 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,au,aws,cs,css,discord,docker,dotnet,eclipse,firebase,git,github,gradle,html,ai,instagram,java,js,laravel,linux,mysql,ps,php,postgres,postman,powershell,pr,stackoverflow,sketchup,vscode,wordpress)](https://skillicons.dev)
 
 José Manuel Sarabia Sarabia:
 - Microinformatic Systems technician.
