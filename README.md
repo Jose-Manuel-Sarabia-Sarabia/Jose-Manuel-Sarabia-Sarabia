@@ -31,7 +31,7 @@ Soy un programador con un fuerte historial de aplicaciones exitosas:
 Mi aplicación estrella, con una media de 90 dispositivos activos, mi aplicación se basa en 2 pilares: Los Puntos Sociales chinos y una versión del «Piedra, Papel y Tijeras».
 
 Esta aplicación está orientada a niños, y con los colores llamativos y los sonidos graciosos, cumple con su objetivo.
-![1675450183119](https://user-images.githubusercontent.com/114681549/216684342-b43138b1-9a80-4320-8ef2-91acdf2a7345.jpg =250x250)
+<img src="https://user-images.githubusercontent.com/114681549/216684342-b43138b1-9a80-4320-8ef2-91acdf2a7345.jpg =250x250" width="150">
 
 - Weather App
 Esta es mi aplicación más útil; es capaz de geolocalizarte por GPS o por Internet, y proporcionarte datos tales como la temperatura, ciudad más cercana, dia y clima.
