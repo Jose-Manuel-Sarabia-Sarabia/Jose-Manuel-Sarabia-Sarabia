@@ -2,11 +2,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,au,aws,cs,css,discord,docker,dotnet,eclipse,firebase,git,github,gradle,html,ai,instagram,java,js,laravel,linux,mysql,ps,php,postgres,postman,powershell,pr,stackoverflow,sketchup,vscode,wordpress" />
   </a>
-</p>
+
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Jose-Manuel-Sarabia-Sarabia&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -15,7 +15,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
+</p>
 José Manuel Sarabia Sarabia:
 - Microinformatic Systems technician.
 - Currently learning Multiplataform App Develoment.
