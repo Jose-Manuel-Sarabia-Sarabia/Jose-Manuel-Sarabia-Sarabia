@@ -29,10 +29,9 @@ Soy un programador con un fuerte historial de aplicaciones exitosas:
 
 - Rainbow Friends Social Points
 Mi aplicación estrella, con una media de 90 dispositivos activos, mi aplicación se basa en 2 pilares: Los Puntos Sociales chinos y una versión del «Piedra, Papel y Tijeras».
-![1675450183119](https://user-images.githubusercontent.com/114681549/216684342-b43138b1-9a80-4320-8ef2-91acdf2a7345.jpg)
-
 
 Esta aplicación está orientada a niños, y con los colores llamativos y los sonidos graciosos, cumple con su objetivo.
+![1675450183119](https://user-images.githubusercontent.com/114681549/216684342-b43138b1-9a80-4320-8ef2-91acdf2a7345.jpg)
 
 - Weather App
 Esta es mi aplicación más útil; es capaz de geolocalizarte por GPS o por Internet, y proporcionarte datos tales como la temperatura, ciudad más cercana, dia y clima.
@@ -44,7 +43,7 @@ También es capaz de proporcionar datos según las coordenadas que proporcione e
 Una aplicación orientada para el público casual que consiste en un test de preguntas geológicas y geopolíticas.
 
 Perfecta para pasar un buen rato con un reto intelectual.
-![Screenshot_2023-02-03-19-45-38-654_easy tuto myquizapplication](https://user-images.githubusercontent.com/114681549/216684448-82b7368f-771a-4a02-8f4c-37504db1ffac.jpg)
+https://user-images.githubusercontent.com/114681549/216684448-82b7368f-771a-4a02-8f4c-37504db1ffac.jpg
 
 - Chatguage Geek
 Con el trabajo de 2 grandes mentes se logró desarrollar un chat, pero no uno cualquiera, sino uno orientado al campo de la informática.
