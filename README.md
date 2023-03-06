@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,au,aws,cs,css,discord,docker,dotnet,eclipse,firebase,git,github,gradle,html,ai,instagram,java,js,laravel,linux,mysql,ps,php,postgres,postman,powershell,pr,stackoverflow,sketchup,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,au,aws,cs,css,discord,docker,dotnet,dw,eclipse,firebase,git,github,gradle,html,ai,instagram,java,js,laravel,linux,mysql,ps,php,postgres,postman,powershell,pr,stackoverflow,sketchup,vscode,wordpress" />
   </a>
 
 
